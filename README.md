@@ -36,6 +36,3 @@ _🧑‍🌾👩‍🌾A platform for farmers of next generation_
 <img width="600"  alt="bhojpuri" src="https://user-images.githubusercontent.com/103589784/211026285-9f66c409-98f3-4a2c-b759-725951c16f6a.png">
 
 <img width="600" alt="bhojj" src="https://user-images.githubusercontent.com/103589784/211026316-21668cf7-05ce-4889-ac3f-6064eb853206.png">
-
-
-# 3)Kannad
